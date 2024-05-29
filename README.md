@@ -49,7 +49,11 @@ Este projeto implementa uma estrutura de jogos RPG (Role Playing Game) aplicando
 2. Instale as dependências:
    ```sh
    npm install
+   
+3. Inicie os contêineres Docker:
+   ```sh
+   docker-compose up -d
 
-3. Execute o projeto:
+4. Execute o projeto:
    ````sh
    npm start
