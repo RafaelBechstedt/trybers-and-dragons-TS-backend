@@ -1,7 +1,7 @@
 # RPG Game Project
 
 ## Descrição
-Este projeto implementa uma estrutura de jogos RPG (Role Playing Game) aplicando os princípios da arquitetura SOLID e os princípios de Programação Orientada a Objetos (POO). 
+Este projeto implementa uma estrutura de jogos RPG (Role Playing Game) aplicando os princípios da arquitetura SOLID e os princípios de Programação Orientada a Objetos (POO) utilizando TypeScript. 
 
 ## Funcionalidades
 1. **Classe Race**
